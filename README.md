@@ -1,1 +1,1 @@
-This is Shamphone Lee's Blog. 
+This is Payment Blog. 
